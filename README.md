@@ -40,7 +40,7 @@ A full-stack Zoom Clone built using **React.js, Node.js, Express.js, Socket.io, 
 
 ## 📸 Screenshot
 
-> Replace the image below with your project screenshot.
+
 
 ![UVideo Meet](screenshots/project.png)
 
