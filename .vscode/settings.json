@@ -1,0 +1,6 @@
+{
+  "editor.inlineSuggest.edits.showCollapsed": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.inlineSuggest.suppressSuggestions": true,
+  "chat.disableAIFeatures": false
+}
